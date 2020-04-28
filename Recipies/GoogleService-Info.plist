@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>208398450331-3u4r0qg09hf30rani0lsbs6j6ra118lr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.208398450331-3u4r0qg09hf30rani0lsbs6j6ra118lr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDP5lnrpdE784xWDvLVIu-8tP3GNKo2V5g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>208398450331</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cristian.Recipies</string>
+	<key>PROJECT_ID</key>
+	<string>recipe-77ff2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>recipe-77ff2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:208398450331:ios:6dc3551dc76d88a2da503e</string>
+	<key>DATABASE_URL</key>
+	<string>https://recipe-77ff2.firebaseio.com</string>
+</dict>
+</plist>
